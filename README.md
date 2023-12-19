@@ -20,7 +20,7 @@ Jupyter Notebook
 Required libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
 
 ## Results
-The model achieved an accuracy of X% on the validation set. More details about the model performance can be found in the 04_Model_Evaluation.ipynb notebook.
+The model achieved good accuracy on the training,  but decreased a lot on the validation set. when I submitted on the real test, the accuracy even worse. the value is varies among different model architecture. More details about the model performance can be found in the Model_Evaluation.ipynb notebook.
 
 ## Contributing
 If you have suggestions or improvements, feel free to open an issue or create a pull request.
