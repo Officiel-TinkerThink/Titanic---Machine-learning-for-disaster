@@ -5,14 +5,13 @@ In this project I did kaggle competition project about to predict Titanic passen
 This repository contains the code and documentation for my submission to the Titanic Kaggle competition. The goal of this project is to predict whether a passenger survived or not based on various features provided in the dataset.
 
 ## Project Structure
-data/: Contains the training and testing datasets (train.csv, test.csv).
-notebooks/: Jupyter notebooks for different stages of the project.
-01_Exploratory_Data_Analysis.ipynb: Exploring the dataset and visualizing key features.
-02_Data_Preprocessing.ipynb: Handling missing values, encoding categorical variables, and feature engineering.
-03_Model_Training.ipynb: Choosing and training machine learning models.
-04_Model_Evaluation.ipynb: Evaluating model performance and fine-tuning hyperparameters.
-src/: Python scripts for utility functions or reusable code.
-output/: Contains the final model and submission file.
+- data/: Contains the training and testing datasets (train.csv, test.csv).
+- notebooks/: Jupyter notebooks for different stages of the project.
+1. Exploratory_Data_Analysis.ipynb: Exploring the dataset and visualizing key features.
+2. Data_Preprocessing.ipynb: Handling missing values, encoding categorical variables, and feature engineering.
+3. Model_Training.ipynb: Choosing and training machine learning models.
+4. Model_Evaluation.ipynb: Evaluating model performance and fine-tuning hyperparameters.
+- output/: Contains the final model and submission file.
 
 # Getting Started
 ## Prerequisites
